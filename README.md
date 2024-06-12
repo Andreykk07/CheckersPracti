@@ -1,1 +1,1 @@
-# CheckersPracti
+# CheckersPractice
